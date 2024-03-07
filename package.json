@@ -1,0 +1,39 @@
+{
+  "name": "onedionys-validation-library",
+  "version": "1.0.0",
+  "description": "One Dionys (Validation Library) - Packages for user input validation such as emails, URLs, or numbers.",
+  "main": "src/validation.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-validation-library.git"
+  },
+  "keywords": [
+    "onedionys",
+    "validation-library"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-validation-library/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-validation-library#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-ajax-wrapper": "^1.0.0",
+    "onedionys-event-emitter": "^1.0.0",
+    "onedionys-number-languange": "^2.0.0",
+    "onedionys-promise-utilities": "^1.0.0",
+    "onedionys-shop-builder": "^2.0.0"
+  }
+}
