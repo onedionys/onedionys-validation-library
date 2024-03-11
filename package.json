@@ -1,6 +1,6 @@
 {
   "name": "onedionys-validation-library",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Validation Library) - Packages for user input validation such as emails, URLs, or numbers.",
   "main": "src/validation.js",
   "directories": {
