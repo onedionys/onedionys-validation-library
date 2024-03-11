@@ -1,6 +1,6 @@
 {
   "name": "onedionys-validation-library",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Validation Library) - Packages for user input validation such as emails, URLs, or numbers.",
   "main": "src/validation.js",
   "directories": {
@@ -30,6 +30,7 @@
   "dependencies": {
     "jquery": "^3.7.1",
     "lodash": "^4.17.21",
+    "mafiozo": "^1.1.4",
     "onedionys-ajax-wrapper": "^1.0.2",
     "onedionys-analytics-integration": "^1.0.0",
     "onedionys-animation-library": "^1.0.0",
@@ -81,6 +82,7 @@
     "onedionys-text-parsing-utilities": "^1.0.0",
     "onedionys-user-authentication": "^1.0.0",
     "onedionys-web-storage-abstraction": "^1.0.0",
-    "onedionys-websocket-wrapper": "^1.0.0"
+    "onedionys-websocket-wrapper": "^1.0.0",
+    "sabdaa": "^1.1.4"
   }
 }
